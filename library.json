@@ -1,0 +1,10 @@
+{
+    "name": "U8g2 Display Library",
+    "keywords": "display, oled, i2c, spi, 1306",
+    "description": "Library tat combines U8G2 libry with esp32-snippets for PlatformIO",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/heepdog/u8g2.git"
+    }
+}
